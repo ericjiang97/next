@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://lorderikir.me/next/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/page/typography/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/blogs/aliquam/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/blogs/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/blogs/tempus/</loc>
+    <lastmod>2017-10-31T22:26:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/blogs/magna/</loc>
+    <lastmod>2017-10-31T22:26:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/blogs/ipsum/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/categories/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/categories/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/tags/config/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/tags/og/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/page/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lorderikir.me/next/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
